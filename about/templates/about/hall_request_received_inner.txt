@@ -1,0 +1,21 @@
+ホームページ訪問者から公民館利用の申込みがありました。
+
+※必ず入力者と連絡をとってください。
+
+受付番号:【{{id}}】
+
+■ 申込み内容
+団体名: {{group_name}}
+使用責任者: {{responsible_person}}
+住所: {{address}}
+電話番号: {{phone_number}}
+メールアドレス: {{email_address}}
+使用目的(会合名称): {{reason}}
+使用日時: {{start_datetime}}〜{{end_datetime}}
+使用室: {{room}}
+内容: {{detail}}
+備考:
+{{note}}
+
+―――――――――――――――――――――――
+申込履歴確認: {{url.scheme}}{{url.fqdn}}/admin/about/hallrequestmodel/
